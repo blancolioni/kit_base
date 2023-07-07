@@ -5,3 +5,6 @@ version = "0.1.0-dev"
 authors = ["Fraser Wilson"]
 maintainers = ["Fraser Wilson <fraser@thewhitelion.eu>"]
 maintainers-logins = ["blancolioni"]
+
+tags = ["miscellanea", "utility", "database", "compiler"]
+website = "https://github.com/blancolioni/kit_base"
