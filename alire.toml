@@ -1,6 +1,7 @@
 name = "kit_base"
 description = "Base package for kit database specification compiler"
 version = "0.1.0-dev"
+licenses= "GPL-3.0-or-later"
 
 authors = ["Fraser Wilson"]
 maintainers = ["Fraser Wilson <fraser@thewhitelion.eu>"]
